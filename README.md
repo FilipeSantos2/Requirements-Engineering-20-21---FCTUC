@@ -13,9 +13,13 @@ Em termos do alcance da plataforma, não temos intenção de criar funcionalidad
 Em contexto de pandemia, uma aplicação de software deste género é essencial ao funcionamento próprio de atividades porque providencia o ensino à distância e, no processo, evita contactos presenciais.
 
 Seguem-se alguns exemplos de cenários em que a nossa plataforma pretende contribuir:
+
 • Vídeo-Aula - Com o sistema desenvolvido será possível fazer streaming e gravação de aulas para garantir a passagem de conteúdos aos alunos.
+
 • Partilha de materiais - Também irá permitir a partilha de documentos e outros materiais de ensino.
+
 • Colocar e Tirar Dúvidas - Será possível aos alunos esclarecerem as suas dúvidas de forma direta. Por outro lado, os docentes conseguem responder sem quaisquer constrangimentos, de forma ordenada.
+
 • Trabalho em grupo - O Flip Framework servirá para a criação, gestão e comumicação de grupos de trabalho. Permitirá assim o bom funcionamento de trabalhos desta natureza.
 
 ## Perspectiva do Produto
