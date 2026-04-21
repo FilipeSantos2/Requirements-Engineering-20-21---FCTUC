@@ -50,10 +50,15 @@ Como a equipa Flip Framework está a desenvolver um sistema de forma autónoma s
 
 Identificação e descrição dos Stakeholders
 
-    Alunos – Os alunos são um dos stakeholders mais importantes do sistema Flip Framework. Estes terão acesso a métodos de esclarecimento de dúvidas mais eficazes e a ferramentas de auxílio no trabalho de grupo. Para além disso, irão ganhar acesso a materiais fornecidos pelos docentes, estando estes organizados de forma clara.
-    Docentes – Os docentes também estão muito envolvidos no sistema Flip Framework como stakeholders. Isto pois com a sua utilização serão capazes de auxiliar os alunos de forma mais eficiente, e desta forma evitar ser prejudicados pelo tempo despendido a encontrar formas de comunicação com os seus alunos.
-    Universidade de Coimbra – A Universidade de Coimbra é o potencial cliente do sistema Flip Framework, sendo assim a possível entidade financiadora. Esta entidade quer manter o nível de ensino de anos anteriores e proporcionar à sua comunidade as condições necessárias para que o ano letivo ocorra com normalidade, ultrapassando as condições excecionais da pandemia.
-    Ministério de Educação – O Ministério de Educação não está diretamente relacionado com o desenvolvimento do sistema, mas beneficia do aumento do nível de qualidade do ensino. É uma entidade que apoia fortemente este tipo de iniciativa por parte das universidades, no sentido de evitar quebras financeiras e promover qualidade e prestígio de ensino.
-    Governo – O Governo, sendo uma entidade diretamente relacionada com o Ministério de Educação, partilha interesses comuns. Nomeadamente as questões financeiras e de prestígio.
-    Developers – Os developers têm muita importância no sistema Flip Framework. São a ponte entre o problema e a solução, sendo a sua opinião essencial para o desenvolvimento. Isto implica que os recursos e o esforço sejam geridos para encontrar a melhor solução, de forma a não os prejudicar.
+Alunos – Os alunos são um dos stakeholders mais importantes do sistema Flip Framework. Estes terão acesso a métodos de esclarecimento de dúvidas mais eficazes e a ferramentas de auxílio no trabalho de grupo. Para além disso, irão ganhar acesso a materiais fornecidos pelos docentes, estando estes organizados de forma clara.
+
+Docentes – Os docentes também estão muito envolvidos no sistema Flip Framework como stakeholders. Isto pois com a sua utilização serão capazes de auxiliar os alunos de forma mais eficiente, e desta forma evitar ser prejudicados pelo tempo despendido a encontrar formas de comunicação com os seus alunos.
+
+Universidade de Coimbra – A Universidade de Coimbra é o potencial cliente do sistema Flip Framework, sendo assim a possível entidade financiadora. Esta entidade quer manter o nível de ensino de anos anteriores e proporcionar à sua comunidade as condições necessárias para que o ano letivo ocorra com normalidade, ultrapassando as condições excecionais da pandemia.
+
+Ministério de Educação – O Ministério de Educação não está diretamente relacionado com o desenvolvimento do sistema, mas beneficia do aumento do nível de qualidade do ensino. É uma entidade que apoia fortemente este tipo de iniciativa por parte das universidades, no sentido de evitar quebras financeiras e promover qualidade e prestígio de ensino.
+
+Governo – O Governo, sendo uma entidade diretamente relacionada com o Ministério de Educação, partilha interesses comuns. Nomeadamente as questões financeiras e de prestígio.
+
+Developers – Os developers têm muita importância no sistema Flip Framework. São a ponte entre o problema e a solução, sendo a sua opinião essencial para o desenvolvimento. Isto implica que os recursos e o esforço sejam geridos para encontrar a melhor solução, de forma a não os prejudicar.
 
